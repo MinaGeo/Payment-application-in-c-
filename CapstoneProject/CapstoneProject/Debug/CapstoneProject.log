@@ -1,0 +1,4 @@
+﻿  server.c
+C:\Users\HP\source\repos\CapstoneProject\CapstoneProject\Server\server.c(193,176): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[25]'
+C:\Users\HP\source\repos\CapstoneProject\CapstoneProject\Server\server.c(193,133): warning C4024: 'strcpy_s': different types for formal and actual parameter 3
+  CapstoneProject.vcxproj -> C:\Users\HP\source\repos\CapstoneProject\Debug\CapstoneProject.exe
